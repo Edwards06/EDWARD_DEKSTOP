@@ -39,7 +39,7 @@ int main(){
                 cout << "Ati castigat!!!\n";
                 break;
             }
-        }
+        }   
         else{cout << "Nati nimeri" << "\n";}
 
     }

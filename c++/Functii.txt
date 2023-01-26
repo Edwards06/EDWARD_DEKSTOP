@@ -1,2 +1,0 @@
-setlocale() = ajuta ca codul sa poat printa orice limba: ex setlocale(LC_,"Rus").
-const int zile_in_sapatamina = 7;
