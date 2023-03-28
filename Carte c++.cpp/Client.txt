@@ -1,0 +1,7 @@
+codul clientului: 0001
+IDNP: 42432432432432
+Numele cliuentului: Andrii
+prenumele clientului: Ion
+Aavansul: 
+300
+Suma achiatata: 200

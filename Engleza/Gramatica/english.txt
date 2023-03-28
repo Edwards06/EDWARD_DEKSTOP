@@ -1,0 +1,2 @@
+a (articol nehotorit) = un/o (inainte de consoana)
+an (articol nehotorit) = un/o (inainte de vocala)

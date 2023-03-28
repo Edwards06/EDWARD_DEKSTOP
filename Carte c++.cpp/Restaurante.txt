@@ -1,0 +1,6 @@
+Codul restaurantului: 0001
+Numele responsabilului: Simbtu
+Denumirea restaurantului: Djin
+Reducerea (%): 55
+Numarul de locuri disponibile: 
+25

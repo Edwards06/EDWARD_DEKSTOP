@@ -1,0 +1,9 @@
+cup = ceasca 
+desk = biro , masa de scris
+egg-cup = paharel de ou
+nut = nuca
+of = de
+puppy = catelus
+tie = cravata
+tin = banca de tabla
+

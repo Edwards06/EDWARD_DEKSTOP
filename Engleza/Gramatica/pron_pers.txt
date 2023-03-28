@@ -1,0 +1,45 @@
+Pronumele personal:
+
+1 - Nominativ
+
+I = Eu
+You = Tu
+He = El
+She = Ea
+It = El, Ea, il o (pentru obiecte, lucruri neinsufletite)(pronume personal genul neutru)
+We = Noi
+You = Voi
+They = Ei
+
+2 - Genitiv
+
+Mine = Al meu
+Yours = Al tau
+His = Al lui
+Hers= Al ei
+Ours = Al nostru
+Yours = Al vostru
+Theirs = Al lor
+
+3 - Dativ
+
+(to) me = mie, -mi
+(to) you = tie
+(to) him = lui
+(to) her = ei
+(to) it = Lui, ei (pentru obiecte, lucruri neinsufletite) (to) us = noua
+(to) you = voua
+(to) them = lor
+
+4 - Acuzativ
+
+me = pe mine
+you = pe tine
+him = pe el
+her = pe ea
+it = pe el, pe ea (pentru obiecte, lucruri neinsufletite)
+us = pe noi
+you = pe voi
+them = pe ei
+
+`1`
